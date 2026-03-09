@@ -46,4 +46,5 @@ The dashboard allows users to filter data by:
 
 ## Project Files
 ## Dashboard Preview
-![Retail Dashboard](dashboard/retail_sales_dashboard.png)
+
+![Retail Dashboard](retail_sales_dashboard.png)
