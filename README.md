@@ -45,3 +45,5 @@ The dashboard allows users to filter data by:
 - Office supplies contribute minimal revenue compared to other categories.
 
 ## Project Files
+## Dashboard Preview
+![Retail Dashboard](dashboard/retail_sales_dashboard.png)
